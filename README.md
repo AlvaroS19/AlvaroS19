@@ -65,7 +65,7 @@ Desarrollador de aplicaciones web recién graduado del **Grado Superior en DAW**
 
 ## 🎯 Proyectos Destacados
 
-### 💊 [Botiquín Digital](https://github.com/tu-usuario/botiquin-digital) - Buscador de Medicamentos
+### 💊 [Botiquín Digital](https://github.com/AlvaroS19/botiquin-digital) - Buscador de Medicamentos
 > [Demo en vivo](https://botiquin-digital.vercel.app/)
 
 Aplicación full-stack que traduce la información técnica y densa de las fichas oficiales de medicamentos (AEMPS/CIMA) a un lenguaje claro y accesible: para qué sirve cada medicamento, cómo se toma, si necesita receta, y sus contraindicaciones.
