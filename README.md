@@ -2,7 +2,7 @@
   
 # 👋 ¡Hola! Soy Álvaro Delgado
 
-### Desarrollador Full Stack | Vue.js · Node.js · Firebase
+### Desarrollador Full Stack | Vue.js · Node.js · PostgreSQL
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alvarodelgado-dev/">
@@ -26,8 +26,9 @@ Desarrollador de aplicaciones web recién graduado del **Grado Superior en DAW**
 
 - 🎓 Graduado en Desarrollo de Aplicaciones Web (Cesur Formación)
 - 💼 Experiencia práctica en CodeArts Solutions y Foro Empresarial
+- 💊 Construyendo **Botiquín Digital** - buscador de medicamentos con datos oficiales de la AEMPS
 - 🏋️ Creador de **[FITQUEST](https://fitquest-puce.vercel.app)** - App de fitness gamificada
-- 🌱 Actualmente aprendiendo React y mejorando mis skills en TypeScript
+- 🌱 Actualmente aprendiendo Python y dando mis primeros pasos en análisis de datos
 - 📍 Ubicación: Sevilla, España
 - 💡 Open to work: Buscando mi primera oportunidad como desarrollador full-stack
 
@@ -48,9 +49,14 @@ Desarrollador de aplicaciones web recién graduado del **Grado Superior en DAW**
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
+### Bases de datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
 ### Herramientas y Otros
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -58,6 +64,22 @@ Desarrollador de aplicaciones web recién graduado del **Grado Superior en DAW**
 ---
 
 ## 🎯 Proyectos Destacados
+
+### 💊 [Botiquín Digital](https://github.com/tu-usuario/botiquin-digital) - Buscador de Medicamentos
+> [Demo en vivo](#) _(añadir enlace tras el despliegue)_
+
+Aplicación full-stack que traduce la información técnica y densa de las fichas oficiales de medicamentos (AEMPS/CIMA) a un lenguaje claro y accesible: para qué sirve cada medicamento, cómo se toma, si necesita receta, y sus contraindicaciones.
+
+**Stack:** Vue.js 3 · Node.js · Express · PostgreSQL · Prisma · Docker · Tailwind CSS
+
+**Características:**
+- 🔍 Buscador con autocompletado y búsqueda por síntoma
+- 📄 Extracción y limpieza automática de las secciones clave de la ficha técnica oficial
+- ⚠️ Detección de alérgenos/excipientes relevantes (lactosa, gluten, sodio...)
+- ⭐ Sistema de medicamentos populares con caché en base de datos
+- 🎨 Identidad visual e iconografía propia, diseño responsive
+
+---
 
 ### 🏋️ [FITQUEST](https://github.com/AlvaroS19/FitQuest) - Aplicación de Fitness Gamificada
 > Proyecto Final de Grado | [Demo en vivo](https://fitquest-puce.vercel.app)
