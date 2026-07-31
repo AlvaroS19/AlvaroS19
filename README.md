@@ -105,15 +105,6 @@ Juego educativo de tragaperras con mecánicas progresivas y sistema de bonus Hol
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlvaroS19&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroS19&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</div>
-
----
-
 ## 💼 Experiencia Profesional
 
 - **Prácticas en CodeArts Solutions** (Mar 2025 - Jun 2025)  
@@ -133,11 +124,3 @@ Juego educativo de tragaperras con mecánicas progresivas y sistema de bonus Hol
 - 🌐 Portfolio: [FITQUEST Demo](https://fitquest-puce.vercel.app)
 
 ---
-
-<div align="center">
-  
-### ⚡ "El código es poesía en movimiento"
-
-![Profile Views](https://komarev.com/ghpvc/?username=AlvaroS19&color=blueviolet&style=flat-square)
-
-</div>
