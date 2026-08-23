@@ -28,7 +28,6 @@ Desarrollador de aplicaciones web recién graduado del **Grado Superior en DAW**
 - 💼 Experiencia práctica en CodeArts Solutions y Foro Empresarial
 - 💊 Construyendo **Botiquín Digital** - buscador de medicamentos con datos oficiales de la AEMPS
 - 🏋️ Creador de **[FITQUEST](https://fitquest-puce.vercel.app)** - App de fitness gamificada
-- 🌱 Actualmente aprendiendo Python y dando mis primeros pasos en análisis de datos
 - 📍 Ubicación: Sevilla, España
 - 💡 Open to work: Buscando mi primera oportunidad como desarrollador full-stack
 
