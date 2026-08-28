@@ -11,8 +11,8 @@
   <a href="mailto:alvarodelsalpers@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://fitquest-puce.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-FitQuest-orange?style=for-the-badge" alt="Portfolio"/>
+  <a href="https://alvarodelgado-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge" alt="Portfolio"/>
   </a>
 </p>
 
@@ -26,8 +26,8 @@ Desarrollador de aplicaciones web recién graduado del **Grado Superior en DAW**
 
 - 🎓 Graduado en Desarrollo de Aplicaciones Web (Cesur Formación)
 - 💼 Experiencia práctica en CodeArts Solutions y Foro Empresarial
-- 💊 Construyendo **Botiquín Digital** - buscador de medicamentos con datos oficiales de la AEMPS
-- 🏋️ Creador de **[FITQUEST](https://fitquest-puce.vercel.app)** - App de fitness gamificada
+- 💊 Creador de **[Botiquín Digital](https://botiquin-digital.vercel.app/)** - buscador de medicamentos con datos oficiales de la AEMPS
+- 🏋️ Creador de **[FitQuest](https://fitquest-puce.vercel.app)** - App de fitness gamificada (mi TFG)
 - 📍 Ubicación: Sevilla, España
 - 💡 Open to work: Buscando mi primera oportunidad como desarrollador full-stack
 
@@ -46,6 +46,7 @@ Desarrollador de aplicaciones web recién graduado del **Grado Superior en DAW**
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### Bases de datos
@@ -80,7 +81,7 @@ Aplicación full-stack que traduce la información técnica y densa de las ficha
 
 ---
 
-### 🏋️ [FITQUEST](https://github.com/AlvaroS19/FitQuest) - Aplicación de Fitness Gamificada
+### 🏋️ [FitQuest](https://github.com/AlvaroS19/FitQuest) - Aplicación de Fitness Gamificada
 > Proyecto Final de Grado | [Demo en vivo](https://fitquest-puce.vercel.app)
 
 Aplicación web full-stack que transforma el ejercicio físico en una experiencia de videojuego RPG con sistema de misiones, niveles, logros y rankings competitivos.
@@ -118,8 +119,8 @@ Juego educativo de tragaperras con mecánicas progresivas y sistema de bonus Hol
 
 ¿Quieres colaborar en un proyecto o tienes una oportunidad laboral?
 
+- 🌐 Portfolio: [alvarodelgado-portfolio.vercel.app](https://alvarodelgado-portfolio.vercel.app)
 - 💼 LinkedIn: [linkedin.com/in/alvarodelgado-dev](https://www.linkedin.com/in/alvarodelgado-dev/)
 - 📧 Email: alvarodelsalpers@gmail.com
-- 🌐 Portfolio: [FITQUEST Demo](https://fitquest-puce.vercel.app)
 
 ---
